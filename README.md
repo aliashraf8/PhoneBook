@@ -129,10 +129,6 @@ Contributions are welcome! Whether you're fixing a bug, adding a feature, or imp
 4. Push to the branch
 5. Create a Pull Request
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped improve this project
-- Special thanks to the C++ community for their excellent resources
 - Inspired by the need for a simple, efficient contact management solution
 
 ---
